@@ -1,6 +1,6 @@
 # Blackjack
 
-This is a project that started as a console-based game of Blackjack developed by me and a team of two others that has since expanded into a personal project dedicated to implementing a GUI while I explore the use of JavaFX. It is a single player vs computer implementation of the card game using standard rules, meant to be simple and lightweight, replicating the experience of playing at table in a casino.
+This project started as a console-based game of Blackjack developed by me and a team of two others that has since expanded into a personal project dedicated to implementing a GUI while I explore the use of JavaFX. It is a single player (versus computer) implementation of the blackjack card game using standard rules, meant to be simple and lightweight, replicating the experience of playing at table in a casino.
 
 ## Motivation
 
@@ -8,4 +8,4 @@ The motivation for this project was initially to complete a course assignment th
 
 ## Completion
 
-Blackjack is still a work in progress, as I am still in schooling. I work on it frequently, but only recently decided to add my projects to github. I intend to complete this application in the future.
+Blackjack is still a work in progress, as I am still in college classes. I work on it frequently, but only recently decided to add my projects to github. I intend to complete this application in the future.
